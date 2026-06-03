@@ -2,11 +2,10 @@
 
 # ✨ Bhavana Reddy
 
-### Turning ideas into code, one project at a time 💻
+## Turning ideas into code, one project at a time 💻
 
 </div>
 
----
 
 ## 🌸 About Me
 
