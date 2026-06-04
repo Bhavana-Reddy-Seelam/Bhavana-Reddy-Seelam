@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=180&section=header&text=Bhavana%20Reddy&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <div align="center">
 
-# ✨ Bhavana Reddy
-
 ## Exploring Technology, One Step at a Time 🌱
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins\&size=24\&duration=3500\&pause=1000\&color=FF69B4\&center=true\&vCenter=true\&width=600\&lines=Computer+Science+Graduate;Software+Developer;Lifelong+Learner;Building+with+Code+%F0%9F%92%BB)](https://git.io/typing-svg)
+
 </div>
 
 ## 🌸 About Me
@@ -61,6 +66,12 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavana-Reddy-Seelam&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+---
+
 ## 🌟 What Drives Me
 
 ✨ Curiosity to learn something new every day
@@ -75,7 +86,9 @@
 
 ## 📫 Connect With Me
 
-📧 **Email:** [bavanareddyseelam@gmail.com](mailto:bavanareddyseelam@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:bavanareddyseelam@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Bhavana-Reddy-Seelam)
 
 ---
 
@@ -85,10 +98,10 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Bhavana-Reddy-Seelam\&style=for-the-badge)
 
----
-
 ### 💜 Thanks for Visiting!
 
-> *"The future belongs to those who never stop learning."*
-
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+</p>
